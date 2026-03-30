@@ -44,3 +44,29 @@
 ## License
 
 This project is licensed under the MIT License:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Requirements
+Single core or more
+Single thread or more
+640KB ram or more
+128TB ram MAX
+can even run on the oldest PCs with the lightweight version.

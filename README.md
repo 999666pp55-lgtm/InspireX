@@ -67,6 +67,7 @@ This project is licensed under the MIT License:
 ## Requirements
 Single core or more
 Single thread or more
-640KB ram or more
+256MB ram or more
 128TB ram MAX
-can even run on the oldest PCs with the lightweight version.
+can run on mid-end to high-end win95-98 PCs
+

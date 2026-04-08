@@ -29,7 +29,7 @@ This was the phase where InspireX still behaved like a DOS‑based system.
 
 InspireX STABLE evolved into a **fully modern, standalone operating system** with its own executable format, kernel extensions, and hardware‑adaptive architecture.
 
-The DOS era is part of its history — but InspireX STABLE is built for **2024+ hardware**.
+The DOS era is part of its history — but InspireX STABLE is built for **32 bit+ hardware**.
 
 ---
 

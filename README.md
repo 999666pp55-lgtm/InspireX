@@ -23,7 +23,7 @@ This was the phase where InspireX still behaved like a DOS‑based system.
 
 - ❌ NOT DOS‑compatible  
 - ❌ Does NOT run `.COM`  
-- ❌ Does NOT run `.EXE`  
+- ❌ Does NOT run x16 `.EXE`  
 - ❌ No DOS drivers  
 - ❌ No DOS memory model  
 
